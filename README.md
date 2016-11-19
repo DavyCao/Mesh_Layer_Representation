@@ -1,4 +1,4 @@
-# Mesh_Layer_Representation
+# Mesh_Layer_Representation (C++ Project)
 
 ## Description
 Computer Graphics Course Project
